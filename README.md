@@ -1,8 +1,9 @@
-Proyecto: Sistema de Filtrado de Currículums ATS
+Proyecto: Sistema de Filtrado de Currículums ATS (Estado:¡¡En Curso!!
 
 📖 Descripción
 
-El Sistema de Filtrado de Currículums con Criterios ATS es una herramienta desarrollada en Python para automatizar el proceso de selección de candidatos. Permite analizar y filtrar currículums según criterios ATS predefinidos, optimizando la revisión de candidatos en procesos de contratación. A través de técnicas de procesamiento de lenguaje natural (NLP) y soporte para archivos PDF y DOCX, el sistema puntúa y clasifica los currículums basándose en palabras clave, habilidades, experiencia y otros factores.
+El Sistema de Filtrado de Currículums con Criterios ATS es una herramienta desarrollada en Python para automatizar el proceso de selección de candidatos. 
+Permite analizar y filtrar currículums según criterios ATS predefinidos, optimizando la revisión de candidatos en procesos de contratación. A través de técnicas de procesamiento de lenguaje natural (NLP) y soporte para archivos PDF y DOCX, el sistema puntúa y clasifica los currículums basándose en palabras clave, habilidades, experiencia y otros factores.
 
 🚀 Características
 
